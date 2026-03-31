@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Rajkumar S (24BCE10447)
+# Author: Udhaya Nithi R (24MIP10043)
 
 # --- Input ---
 PACKAGE=${1:-"vlc"}   # Default package = VLC
